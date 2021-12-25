@@ -101,53 +101,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\6.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\bomb.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\bombed.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\flaged.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\icon.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\nobomb.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\0.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\Menu_background.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\Game_background.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\nothing.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Images\informed.png" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
