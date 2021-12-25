@@ -167,6 +167,7 @@ namespace HexMineSweeper.Controllers
                     positionY = r.Next(0, mapHeight);
                     positionX = r.Next(0, mapWidth);
                 }
+
                 map[positionY, positionX] = -1;
             }
         }
